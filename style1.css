@@ -1,0 +1,25 @@
+body{
+    background-color: #050505;
+    color: #F6F6F6;
+}
+strong{
+    color:#A3D8FF;
+}
+a{
+    background-color: #050505;
+    color: cadetblue;
+}
+hi{
+    color: #FFEEBB;
+}
+p{
+    color: #FDFFC2;
+}
+span{
+    color: #A3D8FF;
+            border: 3px solid #FF76CE;
+            padding: 12px;
+}
+footer p{
+    color: whitesmoke;
+}
